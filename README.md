@@ -6,7 +6,7 @@ This is the project where I demonstrate my React and Typescript skills.
 
 The application is hosted on [Vercel](https://vercel.com) on the following url: https://game-hub-zeta-red.vercel.app
 
-
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /> <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
 ## Getting Started
 
